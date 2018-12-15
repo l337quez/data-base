@@ -67,31 +67,40 @@ En el objecto deberias ir los  siguientes campos
 
 </br>
 
-<b> Nombre </b> 
+<b> 
+* Nombre </b> 
 </br>
 <b> Tipo </b> 
 </br>
-<b> Categoria </b> 
+<b> 
+*Categoria </b> 
 </br>
-<b> Masa </b> 
+<b> 
+*Masa </b> 
 </br>
-<b> Peso Total </b> 
+<b> 
+*Peso Total </b> 
 </br>
-<b> Unidades del peso total </b> 
+<b> 
+*Unidades del peso total </b> 
 </br>
-<b> kilogramos por lote </b> 
+<b> 
+*kilogramos por lote </b> 
 </br>
-<b> Peso por unidad (en gramos) </b> 
+<b> 
+*Peso por unidad (en gramos) </b> 
 </br>
-<b> Costo de formula </b> 
+<b> 
+*Costo de formula </b> 
 </br>
-<b> Costo Indirecto </b> 
+<b> 
+*Costo Indirecto </b> 
 </br>
-<b> Precio sugerido por venta </b> 
+<b> 
+*Precio sugerido por venta </b> 
 </br>
-<b> merma </b> 
+<b> 
+*merma </b> 
 </br>
 
 
-
-<font color="red">este texto se pone rojo</font>
