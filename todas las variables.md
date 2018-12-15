@@ -7,6 +7,8 @@ servicio... Los servicios tienen caracteristicas especiales, hay que analizar es
 
 ### id
 
+### imagen
+
 ### Fecha
 
 Hablando en general con respecto a todo, creo que hay  mas de 3 fechas, por ejemplo si se trata de un producto que se compra y se vende. fecha de ingreso 
