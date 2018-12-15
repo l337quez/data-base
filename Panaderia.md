@@ -4,7 +4,7 @@ Bosquejo del Modelo para una panaderia, para la base de datos. Se ha tomado en c
 
 ### Nombre
 
-del pan, español, frances, ingles, camaleon, azucarado...
+Nombre del pan, español, frances, ingles, camaleon, azucarado...
 
 ### Precio
 
@@ -91,3 +91,7 @@ En el objecto deberias ir los  siguientes campos
 </br>
 <b> merma </b> 
 </br>
+
+
+
+<font color="red">este texto se pone rojo</font>
