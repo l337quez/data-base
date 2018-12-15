@@ -31,6 +31,13 @@ En panaderia existen tipos y posiblemente hay otros pruductos que necesiten este
 ### Matricula
 
 
+### Categoria
+
+El catalogo se maneja por categoria, si es un restaurante, hay postres, desayunos, cafe.... 
+
+
+
+
 
 
 
