@@ -1,6 +1,6 @@
 # Panaderia
 
-Bosquejo del Modelo para una panaderia, para la base de datos. Se ha tomado en cuenta que la panaderia, no solo venden pan, tambien tienen charcuteria, ventan de quesos.jamon, etc.. Importante, he visto el software PANEX para guiarme.
+Bosquejo del Modelo para una panaderia, para la base de datos. Se ha tomado en cuenta que la panaderia, no solo venden pan, tambien tienen charcuteria, ventan de quesos.jamon, etc.. Importante, he visto el software PANEX para guiarme. Luego vi otros programas y agregue otras cosas.
 
 ### Nombre
 
@@ -9,6 +9,10 @@ del pan, español, frances, ingles, camaleon, azucarado...
 ### Precio
 
 precio del pan por unidad
+
+### Fecha
+
+para la factura es importante la fecha y la hora.
 
 ### Coste Indirecto
 
@@ -34,6 +38,11 @@ Dentro de la panaderia encontramos productos de panaderia, de pasteleria como to
 
 Aqui se refiere al peso de la masa. Por ejemplo cuando la formula ya este guardada en el sistema, el sistema podra indicar cuantos panes salen solo colocando el peso total de la masa.
 
+
+### Producto o ingrediente
+
+Esto debe ser un vector, este corresponde a un solo producto, dentro del vector deberia ir 
+<b> Nombre </b> , <b> Precio </b> , <b> Existencia </b> , <b> peso </b> 
 
 ### Costo por unidad
 
